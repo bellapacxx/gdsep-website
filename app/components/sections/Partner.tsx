@@ -50,7 +50,7 @@ export default function Partnerships() {
           Partnerships
         </h2>
 
-        <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 max-w-5xl mx-auto">
+        <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 max-w-6xl mx-auto">
           {partners.map(({ type, role, examples, icon: Icon, colorClass }) => (
             <article
               key={type}
