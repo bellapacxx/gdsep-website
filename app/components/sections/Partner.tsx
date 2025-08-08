@@ -42,7 +42,7 @@ export default function Partnerships() {
       aria-labelledby="partnerships-heading"
       role="region"
     >
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-9xl mx-auto">
         <h2
           id="partnerships-heading"
           className="text-4xl font-extrabold mb-12 text-background tracking-tight"
