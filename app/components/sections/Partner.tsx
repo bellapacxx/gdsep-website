@@ -1,6 +1,6 @@
 "use client";
 
-import { Building, Users, DollarSign } from "lucide-react";
+import { Building, Users, DollarSign, Hammer } from "lucide-react";
 
 const partners = [
   {
@@ -18,12 +18,20 @@ const partners = [
     colorClass: "bg-accent/10 text-accent",
   },
   {
+  type: "Private Sector",
+  role: "Green Infrastructure & Economy Catalysts",
+  examples: "EcoBuild Africa, GreenCo, IFC EDGE Partners",
+  icon: Hammer, // or Building if you're using an icon library like Lucide or Heroicons
+  colorClass: "bg-emerald-100 text-emerald-600",
+},
+  {
     type: "Exchanges",
     role: "SVG liquidity",
     examples: "Binance, Yellow Card",
     icon: DollarSign,
     colorClass: "bg-green-100 text-green-600",
   },
+  
 ];
 
 export default function Partnerships() {
