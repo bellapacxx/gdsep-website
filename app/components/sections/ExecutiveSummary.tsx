@@ -13,7 +13,7 @@ export default function ExecutiveSummary() {
             Executive Summary
           </h2>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto">
-            A strategic initiative to transform remittances and local resources
+            A strategic initiative to transform Land and Mineral resources
             into high-impact, youth-driven entrepreneurship in developing nations.
           </p>
         </div>
