@@ -18,10 +18,10 @@ export default function Hero() {
       >
         <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
           Empowering Startups. <br className="hidden md:inline" />
-          Building Africa’s Future.
+          Building The Future.
         </h1>
         <p className="text-lg md:text-xl text-gray-200 max-w-3xl mx-auto mb-10">
-          The <span className="text-orange-400 font-semibold">Global Dynamic Startup Entrepreneurship Program (GDSEP)</span> uses the <span className="text-orange-400 font-semibold">SVG Token</span> to connect capital, innovation, and opportunity across Africa and its diaspora.
+          The <span className="text-orange-400 font-semibold">Global Dynamic Startup Entrepreneurship Program (GDSEP)</span> uses the <span className="text-orange-400 font-semibold">SVG Token</span> to connect capital, innovation, and opportunity across Africa and the rest of the World.
         </p>
         <div className="flex justify-center gap-4">
           <Button

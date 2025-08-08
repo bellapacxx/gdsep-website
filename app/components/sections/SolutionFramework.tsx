@@ -9,7 +9,7 @@ const components = [
     icon: <Rocket className="w-6 h-6 text-orange-500" />,
     title: "SVG Token",
     badge: "Asset-Backed",
-    description: "1 SVG = 1 sqm of land or 0.1g gold. A reserve-backed digital asset that grounds trust in real-world value.",
+    description: "1 SVG = 1 sqm of land or 0.1g of gold. A reserve-backed digital asset that grounds trust in real-world value.",
   },
   {
     icon: <CheckCircle className="w-6 h-6 text-green-500" />,

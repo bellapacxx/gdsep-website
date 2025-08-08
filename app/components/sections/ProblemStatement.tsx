@@ -31,13 +31,17 @@ export default function ProblemStatement() {
           </h3>
           <ul className="list-disc list-inside space-y-3 text-base leading-relaxed text-orange-50">
             <li>
-              <span className="font-semibold">Unemployment:</span> 60% of African youth are underemployed <span className="text-sm italic text-orange-200">(World Bank)</span>.
+              <span className="font-semibold">Unemployment:</span>For Example 60% of African youth are underemployed <span className="text-sm italic text-orange-200">(World Bank)</span>.
             </li>
             <li>
               <span className="font-semibold">Dead Capital:</span> $9.3T in untapped land value globally <span className="text-sm italic text-orange-200">(Hernando de Soto)</span>.
             </li>
             <li>
-              <span className="font-semibold">Illegal Immigration:</span> 250K+ Africans risk Mediterranean crossings annually <span className="text-sm italic text-orange-200">(IOM)</span>.
+              <span className="font-semibold">Illegal Immigration:</span>For Example 250K+ Africans risk Mediterranean crossings annually <span className="text-sm italic text-orange-200">(IOM)</span>.
+            </li>
+            <li>
+              <span className="font-semibold">Unutilized Mineral Wealth:</span> $75T in estimated underground resources globally <span className="text-sm italic text-orange-200">(World Bank Estimate)</span>.
+
             </li>
           </ul>
         </div>
@@ -59,6 +63,13 @@ export default function ProblemStatement() {
             </li>
             <li>
               <span className="font-semibold">Capital Access:</span> Limited or no access to international funding and liquidity.
+            </li>
+            <li>
+              <span className="font-semibold">Poveritsm:</span> Most political systems in the developing world are undemocratic, unfair, and corrupted.
+            </li>
+            <li>
+              <span className="font-semibold">Nepotism:</span> Power and privilege concentrated through family or insider networks, blocking equal access and accountability.
+
             </li>
           </ul>
         </div>

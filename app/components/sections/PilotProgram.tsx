@@ -4,23 +4,31 @@ import { MapPin, Target, CalendarDays } from "lucide-react";
 
 const regions = [
   {
-    country: "Ghana",
-    asset: "Gold lands",
-    startups: "500 Agritech",
-    icon: <MapPin className="w-6 h-6 text-primary" />,
-  },
-  {
     country: "Kenya",
     asset: "Geothermal",
     startups: "300 EV ventures",
     icon: <MapPin className="w-6 h-6 text-primary" />,
   },
   {
+    country: "Ghana",
+    asset: "Gold lands",
+    startups: "500 Agritech",
+    icon: <MapPin className="w-6 h-6 text-primary" />,
+  },
+  
+  {
     country: "Colombia",
     asset: "Emerald zones",
     startups: "200 Eco-tourism",
     icon: <MapPin className="w-6 h-6 text-primary" />,
   },
+ {
+  country: "India",
+  asset: "Untapped Mineral Wealth",
+  startups: "Over 100 mining tech startups",
+  icon: <MapPin className="w-6 h-6 text-primary" />,
+}
+
 ];
 
 export default function PilotProgram() {

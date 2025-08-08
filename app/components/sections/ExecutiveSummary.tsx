@@ -32,7 +32,7 @@ export default function ExecutiveSummary() {
             </p>
             <ul className="list-disc list-inside space-y-2 text-gray-700">
               <li>
-                <strong>Tokenization</strong> of underutilized land and mineral assets via <span className="font-medium text-accent">Sunvila Gold (SVG)</span>.
+                <strong>Tokenization</strong> of underutilized land and mineral assets via <span className="font-medium text-accent">Sunvila Gold (SVG) Token</span>.
               </li>
               <li>
                 <strong>Decentralized funding</strong> for local startups through a Web3 model.
@@ -54,7 +54,7 @@ export default function ExecutiveSummary() {
                 Launch <strong>10,000+</strong> youth-led startups by <strong>2030</strong>.
               </li>
               <li>
-                Tokenize <strong>$500M+</strong> in land and mineral resources.
+                Tokenize <strong>$2B+</strong> in land and mineral resources.
               </li>
               <li>
                 Reduce illegal emigration by <strong>30%</strong> in pilot regions.

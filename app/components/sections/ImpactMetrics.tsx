@@ -38,7 +38,7 @@ export default function ImpactMetrics() {
     {
       kpi: "SVG Market Cap",
       target2025: "$100M",
-      target2030: "$1B",
+      target2030: "$2B",
       icon: (
         <svg
           className="w-10 h-10 text-background mb-4"
